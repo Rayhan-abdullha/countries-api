@@ -1,0 +1,22 @@
+.single-country img {
+    width: 90%;
+    padding: 20px;
+}
+.single-country img {
+    height: 200px;
+}
+.single-country {
+    text-align: center;
+    background: aliceblue;
+    border-radius: 10px;
+    margin: 20px 10px;
+    transition: .3s;
+}
+.single-country:hover {
+    background: #e5e8f0;
+    transition: .3s;
+}
+.single-country h3 {
+    /* margin-bottom: 10px; */
+    padding-bottom: 20px;
+}
